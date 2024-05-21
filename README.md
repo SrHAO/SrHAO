@@ -46,8 +46,10 @@ Thanks to my approach to programming that I learned in college with the C++ lang
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alan-navarrete/" target="blank">
-<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>&nbsp;</a><a href="https://github.com/SrHAO" target="blank">
-<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>&nbsp;</a><a href="tomaill:al.yoab.nav.sa@gmail.com" target="blank"><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"  alt='Gmail' height='40'/></a>
+<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>&nbsp;</a>
+<a href="https://github.com/SrHAO" target="blank">
+<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>&nbsp;</a>
+<a href="mailto:al.yoab.nav.sa@gmail.com" target="blank"><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"  alt='Gmail' height='40'/></a>
 </p>
 
 <br>
