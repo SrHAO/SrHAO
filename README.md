@@ -53,19 +53,15 @@ Thanks to my approach to programming that I learned in college with the C++ lang
 <br>
 <br>
 <br>
-<div>
-  
+
+
 ⚙️ GitHub Stats ⚙️
 
 <img width = "500" alt = "Shimarin" src = "https://github-readme-streak-stats.herokuapp.com?user=SrHAO&theme=dark&hide_border=false" width = 500>
-<br>
-<br>
-
 
 <img align = "right" width = "500" alt = "Shimarin" src = "https://github-readme-stats.vercel.app/api?username=SrHAO&show_icons=true&theme=dark">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrHAO&theme=dark)](https://github.com/SrHAO/github-readme-stats)
-</div>
 
 
 <p align="center">
