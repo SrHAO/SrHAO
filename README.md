@@ -45,9 +45,9 @@ I am Alan Navarrete, I have just finished my studies and I am looking for an opp
 
 ⚙️ GitHub Stats ⚙️
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=tanyagupta0201&theme=dark&hide_border=false" width = 500>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=SrHAO&theme=dark&hide_border=false" width = 500>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=tanyagupta0201&show_icons=true&theme=dark" width = 500>
+<img src = "https://github-readme-stats.vercel.app/api?username=SrHAO&show_icons=true&theme=dark" width = 500>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201&theme=dark)](https://github.com/SrHAO/github-readme-stats)
 
