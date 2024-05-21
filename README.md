@@ -9,6 +9,11 @@
 
 I am Alan Navarrete, I have just finished my studies and I am looking for an opportunity to work as a front-end programmer. I am always willing to learn new things and face new challenges that lead me to improve my skills that I have acquired both at the University and on my own.
 
+I consider myself a person capable of quickly learning the position to be performed, liking the
+teamwork and problem solving skills.
+
+Thanks to my approach to programming that I learned in college with the C++ language.I was able to understand the operation and importance of knowing how WEB pages work Apps etc. Because of my curiosity and my desire to update, I have experience in development with JavaScript, HTML, CSS, React, React Native, and I'm always willing to learn something new.
+
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 </p>
 <h2>  Current Skills  </h2>
