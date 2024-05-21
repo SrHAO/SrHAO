@@ -51,6 +51,10 @@ Thanks to my approach to programming that I learned in college with the C++ lang
 
 </p>
 
+<p>
+<img aling = "right" with=300  src="https://steamuserimages-a.akamaihd.net/ugc/245839072342586531/B8FE3AEA84CCD5183F98D90AA636D15486C587BC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+</p>
+
 ⚙️ GitHub Stats ⚙️
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=SrHAO&theme=dark&hide_border=false" width = 500>
