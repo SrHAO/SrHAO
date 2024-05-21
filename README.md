@@ -17,3 +17,5 @@ I am Alan Navarrete, I have just finished my studies and I am looking for an opp
 [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/alan-navarrete/)[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/SrHAO)&nbsp;<a href="mailto:al.yoab.nav.sa@gmail.com" target="blank"><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"  alt='Gmail' height='40'/></a>
 
 </p>
+
+<h2> / current skills / </h2>
