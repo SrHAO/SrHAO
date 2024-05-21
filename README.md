@@ -57,14 +57,12 @@ Thanks to my approach to programming that I learned in college with the C++ lang
 
 <img align="right" width="500" alt="Shimarin" src = "https://github-readme-stats.vercel.app/api?username=SrHAO&show_icons=true&theme=dark">
 
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrHAO&theme=dark)](https://github.com/SrHAO/github-readme-stats)
+</div>
+
 <p>
 <img  align="right" width="500" alt="Shimarin" src="https://steamuserimages-a.akamaihd.net/ugc/245839072342586531/B8FE3AEA84CCD5183F98D90AA636D15486C587BC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
 </p>
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrHAO&theme=dark)](https://github.com/SrHAO/github-readme-stats)
-</div>
 
 <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!">
