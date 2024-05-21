@@ -11,10 +11,6 @@ I am Alan Navarrete, I have just finished my studies and I am looking for an opp
 
 </p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me
-
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
-
 <p align="left">
 
 [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/alan-navarrete/)[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/SrHAO)&nbsp;<a href="mailto:al.yoab.nav.sa@gmail.com" target="blank"><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"  alt='Gmail' height='40'/></a>
@@ -43,6 +39,12 @@ I am Alan Navarrete, I have just finished my studies and I am looking for an opp
 <img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="40" height="40" alt="Git"/>
 </p>
 </div>
+
+<p>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me
+
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+</p>
 
 ⚙️ GitHub Stats ⚙️
 
