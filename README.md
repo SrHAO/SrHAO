@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Alan Navarrete</h1
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"> Connect with me
 
 [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourab-maity-4551061b8/)&nbsp;  
 
