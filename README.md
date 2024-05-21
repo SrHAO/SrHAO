@@ -61,8 +61,6 @@ Thanks to my approach to programming that I learned in college with the C++ lang
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ⚙️ GitHub Stats ⚙️
 
