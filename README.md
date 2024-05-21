@@ -49,7 +49,7 @@ I am Alan Navarrete, I have just finished my studies and I am looking for an opp
 
 <img src = "https://github-readme-stats.vercel.app/api?username=SrHAO&show_icons=true&theme=dark" width = 500>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201&theme=dark)](https://github.com/SrHAO/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrHAO&theme=dark)](https://github.com/SrHAO/github-readme-stats)
 
 
 
