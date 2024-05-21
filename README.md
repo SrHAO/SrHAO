@@ -21,7 +21,7 @@ I am Alan Navarrete, I have just finished my studies and I am looking for an opp
 <h2>  Current Skills  </h2>
 
 <h4> Languages </h4>
-<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='40'/>&nbsp;
+<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='60'/>&nbsp;
 <h4> Frameworks </h4>
 
 <h4> Libraries </h4>
