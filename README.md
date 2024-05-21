@@ -2,6 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Alan Navarrete</h1
 
+<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+
+<p>
+
+I am Alan Navarrete, I have just finished my studies and I am looking for an opportunity to work as a front-end programmer. I am always willing to learn new things and face new challenges that lead me to improve my skills that I have acquired both at the University and on my own.
+
+</p>
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me
 
 <p align="left">
