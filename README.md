@@ -38,3 +38,5 @@ I am Alan Navarrete, I have just finished my studies and I am looking for an opp
 <p>
 <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
 </p>
+
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
