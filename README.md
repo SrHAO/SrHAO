@@ -52,6 +52,7 @@ Thanks to my approach to programming that I learned in college with the C++ lang
 </p>
 
 ⚙️ GitHub Stats ⚙️
+<div>
 <img width = "500" alt = "Shimarin" src = "https://github-readme-streak-stats.herokuapp.com?user=SrHAO&theme=dark&hide_border=false" width = 500>
 <br>
 <br>
@@ -60,6 +61,8 @@ Thanks to my approach to programming that I learned in college with the C++ lang
 <img align = "right" width = "500" alt = "Shimarin" src = "https://github-readme-stats.vercel.app/api?username=SrHAO&show_icons=true&theme=dark">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrHAO&theme=dark)](https://github.com/SrHAO/github-readme-stats)
+</div>
+
 
 <p align="center">
 <img width="500" alt="Shimarin" src="https://steamuserimages-a.akamaihd.net/ugc/245839072342586531/B8FE3AEA84CCD5183F98D90AA636D15486C587BC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
