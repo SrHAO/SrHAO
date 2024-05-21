@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Alan Navarrete</h1
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"width="20px"> Connect with me
+
 
 <p align="left">
   
