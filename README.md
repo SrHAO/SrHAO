@@ -62,6 +62,13 @@ Thanks to my approach to programming that I learned in college with the C++ lang
 
 
 
+
+
+
+
+
+
+
 ⚙️ GitHub Stats ⚙️
 
 <img width = "500" alt = "Shimarin" src = "https://github-readme-streak-stats.herokuapp.com?user=SrHAO&theme=dark&hide_border=false" width = 500>
