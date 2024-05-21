@@ -9,10 +9,6 @@
 
 I am Alan Navarrete, I have just finished my studies and I am looking for an opportunity to work as a front-end programmer. I am always willing to learn new things and face new challenges that lead me to improve my skills that I have acquired both at the University and on my own.
 
-</p>
-<p>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me
-
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 </p>
 <h2>  Current Skills  </h2>
@@ -38,6 +34,7 @@ I am Alan Navarrete, I have just finished my studies and I am looking for an opp
 </p>
 </div>
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me
 
 <p align="left">
 
