@@ -42,3 +42,21 @@ I am Alan Navarrete, I have just finished my studies and I am looking for an opp
 <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
 </p>
 </div>
+
+⚙️ GitHub Stats ⚙️
+
+<a href="https://github.com/taulantxhakli/taulantxhakli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taulantxhakli&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/taulantxhakli/taulantxhakli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taulantxhakli&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" alt="Taulant's GitHub Stats" />
+</a>
+
+<a href="https://github.com/taulantxhakli/Discrimination">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taulantxhakli&repo=Discrimination&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/taulantxhakli/taulantxhakli.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taulantxhakli&repo=taulantxhakli.github.io&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21" />
+</a>  
