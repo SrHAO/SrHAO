@@ -18,4 +18,10 @@ I am Alan Navarrete, I have just finished my studies and I am looking for an opp
 
 </p>
 
-<h2> / current skills / </h2>
+<h2>  current skills  </h2>
+
+<h4> languages </h4>
+
+<h4> frameworks & libraries </h4>
+
+<h4> designing tools </h4>
