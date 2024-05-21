@@ -53,7 +53,7 @@ Thanks to my approach to programming that I learned in college with the C++ lang
 
 ⚙️ GitHub Stats ⚙️
 <div>
-<img align = "right" width = "500" alt = "Shimarin" src = "https://github-readme-streak-stats.herokuapp.com?user=SrHAO&theme=dark&hide_border=false" width = 500>
+<img width = "500" alt = "Shimarin" src = "https://github-readme-streak-stats.herokuapp.com?user=SrHAO&theme=dark&hide_border=false" width = 500>
 <br>
 <br>
 <img align = "right" width = "500" alt = "Shimarin" src = "https://github-readme-stats.vercel.app/api?username=SrHAO&show_icons=true&theme=dark">
