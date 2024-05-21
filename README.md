@@ -46,17 +46,17 @@ Thanks to my approach to programming that I learned in college with the C++ lang
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me
 
 <p align="left">
-
 [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/alan-navarrete/)[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/SrHAO)&nbsp;<a href="mailto:al.yoab.nav.sa@gmail.com" target="blank"><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"  alt='Gmail' height='40'/></a>
-
 </p>
-<br>
-<br>
-<br>
-<br>
 
-⚙️ GitHub Stats ⚙️
+<br>
+<br>
+<br>
+<br>
 <div>
+  
+⚙️ GitHub Stats ⚙️
+
 <img width = "500" alt = "Shimarin" src = "https://github-readme-streak-stats.herokuapp.com?user=SrHAO&theme=dark&hide_border=false" width = 500>
 <br>
 <br>
