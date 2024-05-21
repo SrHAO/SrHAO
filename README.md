@@ -11,7 +11,7 @@
 <div>
 <p>
 
-I am Alan Navarrete, I have just finished my studies and I am looking for an opportunity to work as a front-end programmer. I am always willing to learn new things and face new challenges that lead me to improve my skills that I have acquired both at the University and on my own.
+My name is Alan Navarrete, I am looking for an opportunity to work as a front-end programmer. I am always willing to learn new things and face new challenges that lead me to improve my skills that I have acquired both at the University and on my own.
 
 I consider myself a person capable of quickly learning the position to be performed, liking the
 teamwork and problem solving skills.
