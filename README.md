@@ -7,12 +7,11 @@
 
 <p>
 
-My name is Alan Navarrete, I am looking for an opportunity to work as a front-end programmer. I am always willing to learn new things and face new challenges that lead me to improve my skills that I have acquired both at the University and on my own.
+My name is Alan Navarrete, and I'm seeking an opportunity to work as a front-end programmer. I'm always eager to learn new things and take on challenges that help me improve the skills I've acquired both at university and on my own.
 
-I consider myself a person capable of quickly learning the position to be performed, liking the
-teamwork and problem solving skills.
+I consider myself capable of quickly learning the responsibilities of the position, enjoying teamwork, and possessing problem-solving abilities.
 
-Thanks to my approach to programming that I learned in college with the C++ language.I was able to understand the operation and importance of knowing how WEB pages work Apps etc. Because of my curiosity and my desire to update, I have experience in development with JavaScript, HTML, CSS, React, React Native, and I'm always willing to learn something new.
+Thanks to my exposure to programming learned in university with the language C++, I gained an understanding of how websites, apps, etc., function and their importance. Due to my curiosity and eagerness to stay updated, I have experience in development with JavaScript, HTML, CSS, React, React Native, and I'm always open to learning something new.
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 </p>
