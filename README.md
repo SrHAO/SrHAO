@@ -33,3 +33,6 @@ I am Alan Navarrete, I have just finished my studies and I am looking for an opp
 <h4> Libraries </h4>
 
 <h4> Designing tools </h4>
+<p>
+<img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+</p>
