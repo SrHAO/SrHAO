@@ -28,9 +28,10 @@ I am Alan Navarrete, I have just finished my studies and I am looking for an opp
 <img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='50'/>&nbsp;
 </p>
 
-<h4> Frameworks </h4>
-
-<h4> Libraries </h4>
+<h4> Frameworks &  Libraries </h4>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
 
 <h4> Softwares & Tools </h4>
 <p>
