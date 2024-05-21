@@ -1,12 +1,9 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<div align="center">
-<h1>
+<h1 align="center">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Alan+Navarrete;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Alan+Navarrete;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 </h1
- 
-</div>
 
 <p>
 
