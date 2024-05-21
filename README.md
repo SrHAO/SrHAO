@@ -8,7 +8,6 @@
 
 </div>
 
-<div>
 <p>
 
 My name is Alan Navarrete, I am looking for an opportunity to work as a front-end programmer. I am always willing to learn new things and face new challenges that lead me to improve my skills that I have acquired both at the University and on my own.
@@ -41,12 +40,13 @@ Thanks to my approach to programming that I learned in college with the C++ lang
 <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
 <img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="40" height="40" alt="Git"/>
 </p>
-</div>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me
 
 <p align="left">
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/alan-navarrete/)&nbsp;<img alt="Coding Gif" src="[https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif](https://github.com/SrHAO)" height="200" align="right"/>&nbsp; <a href="mailto:al.yoab.nav.sa@gmail.com" target="blank"><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"  alt='Gmail' height='40'/></a>
+
+
+  <a href="mailto:al.yoab.nav.sa@gmail.com" target="blank"><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"  alt='Gmail' height='40'/></a>
 </p>
 
 <br>
