@@ -59,7 +59,7 @@ Thanks to my approach to programming that I learned in college with the C++ lang
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrHAO&theme=dark)](https://github.com/SrHAO/github-readme-stats)
 
-<h3 aling = "right">
+<h3 aling = "left">
   <img with=300 src="https://steamuserimages-a.akamaihd.net/ugc/245839072342586531/B8FE3AEA84CCD5183F98D90AA636D15486C587BC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
 </h3>
 <h3 align="center">
