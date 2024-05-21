@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<h1 align="center">Hi 👋, I'm Alan Navarrete</h1
+<h1 align="center">Hi , I'm Alan Navarrete</h1
 
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
