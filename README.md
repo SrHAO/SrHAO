@@ -49,7 +49,7 @@ Thanks to my exposure to programming learned in university with the language C++
 </p>
 <br>
 <p align="center">
-<img width="400" alt="Shimarin" src="https://static.wikia.nocookie.net/featteca/images/d/db/Shirohige_Gif-0.gif/revision/latest?cb=20210205123621&path-prefix=es"
+<img width="300" alt="Shimarin" src="https://static.wikia.nocookie.net/featteca/images/d/db/Shirohige_Gif-0.gif/revision/latest?cb=20210205123621&path-prefix=es"
 </p>
 <br>
 
