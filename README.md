@@ -19,12 +19,17 @@ I am Alan Navarrete, I have just finished my studies and I am looking for an opp
 </p>
 
 <h2>  Current Skills  </h2>
-<p>
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> <h4>Languages</h4>
+
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Languages
+
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" 
+  height='50'/> 
+<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='50'/>&nbsp;
 </p>
 
 
-<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='50'/>&nbsp;
+
 
 <h4> Frameworks </h4>
 
