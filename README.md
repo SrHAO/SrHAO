@@ -70,4 +70,4 @@ Thanks to my exposure to programming learned in university with the language C++
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!">
 </h3>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarciaGabrielle}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SrHAO}/count.svg" /></p>
