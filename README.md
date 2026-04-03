@@ -7,11 +7,15 @@
 
 <p>
 
-My name is Alan Navarrete, and I'm seeking an opportunity to work as a front-end programmer. I'm always eager to learn new things and take on challenges that help me improve the skills I've acquired both at university and on my own.
-
-I consider myself capable of quickly learning the responsibilities of the position, enjoying teamwork, and possessing problem-solving abilities.
-
-Thanks to my exposure to programming learned in university with the language C++, I gained an understanding of how websites, apps, etc., function and their importance. Due to my curiosity and eagerness to stay updated, I have experience in development with JavaScript, HTML, CSS, React, React Native, and I'm always open to learning something new.
+Front-End Developer focused on building modern, responsive, and high-performance user interfaces.
+Experience developing web applications using HTML, CSS, JavaScript (ES6+), and
+React, including reusable components and REST API integration.
+Experience working with Firebase for authentication and real-time data handling, as well
+as version control using Git and GitHub.
+Uses artificial intelligence tools as support for continuous learning, process optimization,
+and productivity improvement, maintaining a strong focus on technical understanding and
+independent problem-solving.
+Currently expanding knowledge with Astro and building personal projects deployed on Vercel.
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 </p>
