@@ -18,8 +18,12 @@ filter:
 drop-shadow(0px 0px 8px rgba(255,255,255,0.45))
 brightness(1.1);
 "/>
-
 </div>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Welcome I'm Alan Navarrete ;Game+Developer;Graphic+Designer;VFX+Artist;C%2B%2B+Lover">
+</p>
+
 
 <p>
 
