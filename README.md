@@ -72,7 +72,7 @@ Currently expanding knowledge with Astro and building personal projects deployed
 </a>
 
 <a href="mailto:al.yoab.nav.sa@gmail.com" target="_blank">
-  <img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c"
+  <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg"
        height="48"
        style="vertical-align:middle;" />
 </a>
@@ -96,10 +96,9 @@ Currently expanding knowledge with Astro and building personal projects deployed
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SrHAO&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake-dark.svg)
 <!-- Tools and Platforms -->
 
-![snake gif](https://github.com/SrHAO/SrHAO/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 <a href="https://https://github.com/SrHAO">
