@@ -36,6 +36,7 @@ Currently expanding knowledge with Astro and building personal projects deployed
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50px">
 <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/astro/default.svg" alt="Astro" width="50px"/>
 </p>
 
 <h4> Softwares & Tools </h4>
