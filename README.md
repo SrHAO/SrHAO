@@ -98,7 +98,7 @@ Currently expanding knowledge with Astro and building personal projects deployed
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake-dark.svg)
 <!-- Tools and Platforms -->
-
+ <a href="https://github.com/SrHAO"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsmeshibintmz&custom_title=Shibin'%20Thomas's%20Contribution%20Graph&theme=react-dark" /></a>
 
 <p align="center">
 <a href="https://https://github.com/SrHAO">
