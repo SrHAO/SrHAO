@@ -19,33 +19,37 @@ Currently expanding knowledge with Astro and building personal projects deployed
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 </p>
-<h2>  Current Skills  </h2>
+<h2>Current Skills</h2>
 
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages
+<h3>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="28" />
+  Languages
+</h3>
 
 <p>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" 
-  height='50'/> 
-<img src = 'https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png' height='50'/>&nbsp;
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" height="48" style="vertical-align:middle;"/>
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/cpp.png" height="48" style="vertical-align:middle;"/>
 </p>
 
-<h4> Frameworks &  Libraries </h4>
+<h3>Frameworks & Libraries</h3>
+
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50px">
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/astro/default.svg" alt="Astro" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vercel/wordmark.svg" alt="Vercel" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="48"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="48"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/astro/default.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vercel/wordmark.svg" height="48"/>
 </p>
 
-<h4> Softwares & Tools </h4>
+<h3>Software & Tools</h3>
+
 <p>
-<img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
-<img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="40" height="40" alt="Git"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height: 4rem"/>
+  <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" height="48"/>
+  <img src="https://img.icons8.com/fluent/48/github.png" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="48"/>
 </p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
