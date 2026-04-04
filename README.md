@@ -34,6 +34,9 @@ Currently expanding knowledge with Astro and building personal projects deployed
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px" alt="NodeJS">
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" width="50px"/>
 </p>
 
 <h4> Softwares & Tools </h4>
@@ -43,14 +46,14 @@ Currently expanding knowledge with Astro and building personal projects deployed
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alan-navarrete/" target="blank">
-<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>&nbsp;</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="50" width="40" />&nbsp;</a>
 <a href="https://github.com/SrHAO" target="blank">
 <img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>&nbsp;</a>
-<a href="mailto:al.yoab.nav.sa@gmail.com" target="blank"><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg"  alt='Gmail' height='40'/></a>
+<a href="mailto:al.yoab.nav.sa@gmail.com" target="blank"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt='Gmail' height='50'/></a>
 </p>
 <br>
 <p align="center">
