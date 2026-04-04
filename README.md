@@ -91,7 +91,7 @@ Currently expanding knowledge with Astro and building personal projects deployed
   
 <br>
 <p aling="center">
-  <img src="https://media1.tenor.com/m/CpGh-ufGo9MAAAAd/whitebeard-shirohige.gif" width="600" alt="Anime GIF"/>
+  <img src="https://media1.tenor.com/m/CpGh-ufGo9MAAAAd/whitebeard-shirohige.gif" width="1000" alt="Anime GIF" aling="center"/>
 </p>
 
  GitHub Stats 
