@@ -93,13 +93,13 @@ Currently expanding knowledge with Astro and building personal projects deployed
  GitHub Stats 
 
 <p align='center'>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chinmay29hub&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SrHAO&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
 
 <!-- Tools and Platforms -->
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/SrHAO/SrHAO/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 <a href="https://https://github.com/SrHAO">
