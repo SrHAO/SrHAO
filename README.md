@@ -81,13 +81,6 @@ Currently expanding knowledge with Astro and building personal projects deployed
 
 <br>
 
-<p align="right">
-  <img
-    src="https://static.wikia.nocookie.net/featteca/images/d/db/Shirohige_Gif-0.gif/revision/latest?cb=20210205123621&path-prefix=es"
-    width="300"
-    alt="Anime GIF"
-  />
-</p>
 <p aling="left">
   <img src= "https://media1.tenor.com/m/zE7FZL4cADEAAAAC/whitebeard.gif" with="100" alt="Anime GIF"/>
 </p>
