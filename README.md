@@ -15,7 +15,9 @@ transform:translateX(-50%);
 width:260px;
 z-index:10;
 pointer-events:none;
-"/>
+filter:drop-shadow(0px 0px 12px white);
+"
+/>
 
 </div>
 
