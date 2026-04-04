@@ -5,7 +5,7 @@
 style="width:100%; display:block;"/>
 </a>
 
-<img src="https://raw.githubusercontent.com/SrHAO/SrHAO/main/assets/logosv.svg"
+<img src="https://raw.githubusercontent.com/SrHAO/SrHAO/refs/heads/main/assets/logo.svg"
 style="
 position:absolute;
 top:10%;
