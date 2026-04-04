@@ -1,16 +1,22 @@
 <div align="center" style="position:relative; display:inline-block;">
 
 <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc">
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"
+style="width:100%; display:block;"/>
 </a>
 
-<img src="https://raw.githubusercontent.com/SrHAO/SrHAO/refs/heads/main/assets/logo.svg" width="220" style=" position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); pointer-events:none;"/>
+<img src="https://raw.githubusercontent.com/SrHAO/SrHAO/main/assets/logosv.svg"
+style="
+position:absolute;
+top:10%;
+left:50%;
+transform:translateX(-50%);
+width:260px;
+z-index:10;
+pointer-events:none;
+"/>
 
 </div>
-<h1 align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Welcome+to+my+Github+Profile!;Alan+Navarrete;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
-</h1
 
 <p>
 
