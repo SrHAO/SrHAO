@@ -97,16 +97,9 @@ Currently expanding knowledge with Astro and building personal projects deployed
 
 <img align = "right" width = "500" alt = "Shimarin" src = "https://github-readme-stats.vercel.app/api?username=SrHAO&show_icons=true&theme=dark">
   
-
-
-
 <p align="center">
 <img width="500" alt="Shimarin" src="https://steamuserimages-a.akamaihd.net/ugc/245839072342586531/B8FE3AEA84CCD5183F98D90AA636D15486C587BC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
 </p>
-
-<h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!"/>
-</h3>
 
 <!-- Tools and Platforms -->
 
@@ -118,3 +111,7 @@ Currently expanding knowledge with Astro and building personal projects deployed
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizovrafael&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!"/>
+</h3>
