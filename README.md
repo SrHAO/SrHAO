@@ -96,7 +96,7 @@ Currently expanding knowledge with Astro and building personal projects deployed
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SrHAO&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/id1945/SrHAO/output/github-contribution-grid-snake-dark.svg)
 <!-- Tools and Platforms -->
 
 
