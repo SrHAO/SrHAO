@@ -81,12 +81,15 @@ Currently expanding knowledge with Astro and building personal projects deployed
 
 <br>
 
-<p align="center">
+<p align="right">
   <img
     src="https://static.wikia.nocookie.net/featteca/images/d/db/Shirohige_Gif-0.gif/revision/latest?cb=20210205123621&path-prefix=es"
     width="300"
     alt="Anime GIF"
   />
+</p>
+<p aling="left">
+  <img src= "https://media1.tenor.com/m/zE7FZL4cADEAAAAC/whitebeard.gif" with="300" alt="Anime GIF"/>
 </p>
   
 <br>
@@ -96,7 +99,9 @@ Currently expanding knowledge with Astro and building personal projects deployed
 
  GitHub Stats 
 
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmay29hub&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chinmay29hub&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</p>
 
 
 <!-- Tools and Platforms -->
