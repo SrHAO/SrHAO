@@ -97,9 +97,9 @@ Currently expanding knowledge with Astro and building personal projects deployed
 
 <img align = "center" width = "500" src = "https://github-readme-stats.vercel.app/api?username=SrHAO&show_icons=true&theme=dark">
   
-<p align="center">
-<img width="500" src="https://steamuserimages-a.akamaihd.net/ugc/245839072342586531/B8FE3AEA84CCD5183F98D90AA636D15486C587BC/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
-</p>
+
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmay29hub&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
+
 
 <!-- Tools and Platforms -->
 
