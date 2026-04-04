@@ -40,7 +40,7 @@ Currently expanding knowledge with Astro and building personal projects deployed
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="48"/>
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/astro/default.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vercel/wordmark.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vercel/default.svg" height="48"/>
 </p>
 
 <h3>Software & Tools</h3>
@@ -52,19 +52,43 @@ Currently expanding knowledge with Astro and building personal projects deployed
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="48"/>
 </p>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="28"/>
+  Connect with me
+</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/alan-navarrete/" target="blank">
-<a href="https://linkedin.com/in/www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" target="blank"><img align="center"  src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="50" width="40" />&nbsp;</a>
-<a href="https://github.com/SrHAO" target="blank">
-<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>&nbsp;</a>
-<a href="mailto:al.yoab.nav.sa@gmail.com" target="blank"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt='Gmail' height='50'/></a>
+
+<a href="https://www.linkedin.com/in/alan-navarrete/" target="_blank">
+  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"
+       height="48"
+       style="vertical-align:middle;" />
+</a>
+
+<a href="https://github.com/SrHAO" target="_blank">
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png"
+       height="48"
+       style="vertical-align:middle;" />
+</a>
+
+<a href="mailto:al.yoab.nav.sa@gmail.com" target="_blank">
+  <img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c"
+       height="48"
+       style="vertical-align:middle;" />
+</a>
+
 </p>
+
 <br>
+
 <p align="center">
-<img width="300" alt="Shimarin" src="https://static.wikia.nocookie.net/featteca/images/d/db/Shirohige_Gif-0.gif/revision/latest?cb=20210205123621&path-prefix=es"
+  <img
+    src="https://static.wikia.nocookie.net/featteca/images/d/db/Shirohige_Gif-0.gif/revision/latest?cb=20210205123621&path-prefix=es"
+    width="300"
+    alt="Anime GIF"
+  />
 </p>
+  
 <br>
 
 ⚙️ GitHub Stats ⚙️
