@@ -82,7 +82,7 @@ Currently expanding knowledge with Astro and building personal projects deployed
 <br>
 
 <p aling="left">
-  <img src= "https://media1.tenor.com/m/zE7FZL4cADEAAAAC/whitebeard.gif" with="50" alt="Anime GIF"/>
+  <img src= "https://media1.tenor.com/m/zE7FZL4cADEAAAAC/whitebeard.gif" with="70" alt="Anime GIF"/>
 </p>
   
 <br>
