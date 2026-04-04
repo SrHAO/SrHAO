@@ -35,7 +35,6 @@ Currently expanding knowledge with Astro and building personal projects deployed
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50px" alt="NodeJS">
 <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" width="50px"/>
 </p>
 
@@ -44,13 +43,14 @@ Currently expanding knowledge with Astro and building personal projects deployed
 <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
 <img src="https://img.icons8.com/fluent/48/4a90e2/github.png" width="40" height="40" alt="Git"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height: 4rem"/>
 </p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alan-navarrete/" target="blank">
-<a href="https://linkedin.com/in/www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="50" width="40" />&nbsp;</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" target="blank"><img align="center"  src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="50" width="40" />&nbsp;</a>
 <a href="https://github.com/SrHAO" target="blank">
 <img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>&nbsp;</a>
 <a href="mailto:al.yoab.nav.sa@gmail.com" target="blank"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt='Gmail' height='50'/></a>
@@ -78,4 +78,70 @@ Currently expanding knowledge with Astro and building personal projects deployed
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!">
 </h3>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SrHAO}/count.svg" /></p>
+<!-- Web Development -->
+
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+</a>
+
+<a href="https://reactjs.org/" target="_blank">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</a>
+
+<!-- Mobile Development -->
+<a href="https://reactnative.dev/" target="_blank">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</a>
+<a href="https://expo.dev/" target="_blank">
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white">
+</a>
+
+<!-- Frontend Frameworks/Libraries -->
+<a href="https://tailwindcss.com/" target="_blank">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</a>
+
+<a href="https://material-ui.com/" target="_blank">
+  <img alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</a>
+
+<!-- Database -->
+<a href="https://www.mysql.com/" target="_blank">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+
+<!-- Version Control and Collaboration -->
+<a href="https://github.com/" target="_blank">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</a>
+
+<!-- Design Tools -->
+<a href="https://www.figma.com/" target="_blank">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</a>
+
+<!-- Tools and Platforms -->
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+<a href="https://https://github.com/SrHAO">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizovrafael&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
