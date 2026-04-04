@@ -8,13 +8,14 @@ style="width:100%; display:block;"/>
 <img src="https://raw.githubusercontent.com/SrHAO/SrHAO/refs/heads/main/assets/logo.svg"
 style="
 position:absolute;
-top:10%;
-left:50%;
-transform:translateX(-50%);
-width:260px;
-z-index:10;
+top:18%;
+right:6%;
+width:180px;
+opacity:0.92;
+z-index:5;
 pointer-events:none;
-filter:drop-shadow(0px 0px 12px white);
+filter:drop-shadow(0px 0px 6px rgba(255,255,255,0.35));
+mix-blend-mode:screen;
 "
 />
 
