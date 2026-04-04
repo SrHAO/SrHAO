@@ -5,19 +5,19 @@
 style="width:100%; display:block;"/>
 </a>
 
-<img src="https://raw.githubusercontent.com/SrHAO/SrHAO/refs/heads/main/assets/logo.svg"
+<img src="https://raw.githubusercontent.com/SrHAO/SrHAO/main/assets/logo.svg"
 style="
 position:absolute;
-top:18%;
-right:6%;
-width:180px;
-opacity:0.92;
-z-index:5;
+top:22%;
+right:7%;
+width:160px;
+opacity:0.9;
+z-index:10;
 pointer-events:none;
-filter:drop-shadow(0px 0px 6px rgba(255,255,255,0.35));
-mix-blend-mode:screen;
-"
-/>
+filter:
+drop-shadow(0px 0px 8px rgba(255,255,255,0.45))
+brightness(1.1);
+"/>
 
 </div>
 
