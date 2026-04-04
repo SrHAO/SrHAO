@@ -93,11 +93,6 @@ Currently expanding knowledge with Astro and building personal projects deployed
 
  GitHub Stats 
 
-<img width = "500" alt = "Shimarin" src = "https://github-readme-streak-stats.herokuapp.com?user=SrHAO&theme=dark&hide_border=false" width = 500>
-
-<img align = "center" width = "500" src = "https://github-readme-stats.vercel.app/api?username=SrHAO&show_icons=true&theme=dark">
-  
-
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmay29hub&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
 
