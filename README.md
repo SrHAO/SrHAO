@@ -70,7 +70,7 @@ Currently expanding knowledge with Astro and building personal projects deployed
   <img src="https://img.icons8.com/fluent/48/github.png" alt="Github" height="48"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/yarn/default.svg" alt="Yarn" height="24"
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/yarn/default.svg" alt="Yarn" height="48"
 />
 </p>
 
