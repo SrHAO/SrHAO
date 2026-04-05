@@ -66,10 +66,12 @@ Currently expanding knowledge with Astro and building personal projects deployed
 <h3>Software & Tools</h3>
 
 <p>
-  <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" height="48"/>
-  <img src="https://img.icons8.com/fluent/48/github.png" height="48"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="48"/>
+  <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" alt="Visual SC" height="48"/>
+  <img src="https://img.icons8.com/fluent/48/github.png" alt="Github" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/yarn/default.svg" alt="Yarn" height="24"
+/>
 </p>
 
 <h2>
